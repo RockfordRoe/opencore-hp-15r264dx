@@ -6,41 +6,32 @@
 	<dict/>
 	<key>files2</key>
 	<dict>
-		<key>PlugIns/RMII2C.kext</key>
+		<key>PlugIns/VoodooGPIO.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0XEr6/3S8yXQ2x6kERfa9C4QcoU=
+			wVr8yLCYKgbdD8sGCrppHuB4DzY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ac351784404d40ed4a324e85ada64c75341df06e" or cdhash H"d1712bebfdd2f325d0db1ea41117daf42e107285"</string>
+			<string>cdhash H"1f5bf39111980740c4681cfb7c7f0208536daeaa" or cdhash H"c15afcc8b0982a06dd0fcb060aba691ee0780f36"</string>
 		</dict>
-		<key>PlugIns/RMISMBus.kext</key>
+		<key>PlugIns/VoodooI2CServices.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			JJ/kZuPkCO/E/1yYfyD6Bm+GCHU=
+			5O3kWoqqC7mKBZ7+p+Ix1uudm9k=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"1db21876a470d6d422b2d5eeae9faf4cf6b9cf43" or cdhash H"249fe466e3e408efc4ff5c987f20fa066f860875"</string>
+			<string>cdhash H"7520c6a021349a2b1fb7c0081e1d1bf15f24660b" or cdhash H"e4ede45a8aaa0bb98a059efea7e231d6eb9d9bd9"</string>
 		</dict>
 		<key>PlugIns/VoodooInput.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			IWkgOX6LeRknWddRTVZYrCxwYDg=
+			D2ViRqyT7AJcvpnHYowkWyaI9VM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"5823588c602d162972db779fc946e2b352b55ff6" or cdhash H"216920397e8b79192759d7514d5658ac2c706038"</string>
-		</dict>
-		<key>PlugIns/VoodooTrackpoint.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			AIcQ+GiFs7cNJTCINbpi9ZgMS3Y=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"9f555e5211a84a46a27b3ed2b1751ce6dff4b464" or cdhash H"008710f86885b3b70d25308835ba62f5980c4b76"</string>
+			<string>cdhash H"7fc587be9b224e52835c88e06d49dc302e39b087" or cdhash H"0f656246ac93ec025cbe99c7628c245b2688f553"</string>
 		</dict>
 	</dict>
 	<key>rules</key>
